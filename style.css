@@ -92,7 +92,7 @@ body {
 	margin-right: auto;
 	z-index: 1;
 	position: relative;
-	margin-top: -20px;
+	top: -50px;
 	align: center;
 
 }
@@ -113,6 +113,7 @@ body {
 	font-size: 20px;
 }
 
+
 #mid2 {
 	padding-top: 60px;
 	padding-bottom: 40px;
@@ -127,7 +128,7 @@ body {
 
 .m {
 	width: 200px;
-	height: 250px;
+	/*height: 250px;*/
 	float: left;
 	margin: 10px;
 
@@ -167,6 +168,7 @@ body {
 	height: 250px;
 	float: left;
 	padding: 25px;
+	overflow: hidden;
 }
 
 .imag{
@@ -182,6 +184,7 @@ body {
 	float: left;
 	padding: 20px;
 	height: 250px;
+	overflow: hidden;
 }
 
 #n1 {
@@ -224,3 +227,8 @@ body {
 	float: left;
 	margin-left: 20px;
 }
+
+/*#mid1 {
+	position: relative;
+	top: -50px;
+}*/
